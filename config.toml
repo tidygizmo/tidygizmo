@@ -95,7 +95,7 @@ paginate = 6
   # Author Settings
   [params.author]
     author__name = "Jack Hooker"
-    author__bio = "Workng in the games indutry on AAA games sind 2016git "
+    author__bio = "User Interface Designer for games and digital products"
     author__avatar = "https://via.placeholder.com/500x500"
 
   # Social Links
@@ -137,15 +137,15 @@ paginate = 6
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "I'm Monica. I will create design that can give you value"
-    hero__description = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
+    hero__title = "User Interface Designer for games and digital products."
+    hero__description = "Description here"
     hero__image = "https://via.placeholder.com/1200x800"
 
 
   #-------------------------------
   # Newsletter Settings
   [params.mailchimp]
-    enable = true
+    enable = false
     mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get updates" # Add your button text
