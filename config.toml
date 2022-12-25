@@ -94,7 +94,7 @@ paginate = 6
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "Jack Hooker"
+    author__name = "Jack"
     author__bio = "User Interface Designer for games and digital products"
     author__avatar = "https://via.placeholder.com/500x500"
 
