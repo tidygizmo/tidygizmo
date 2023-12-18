@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://joyful-salamander-ff85d1.netlify.app/"
+baseURL = "https://tidygizmo.com/"
 languageCode = "en-us"
 title = "Hilton"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
